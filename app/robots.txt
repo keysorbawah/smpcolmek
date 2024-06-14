@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://smpcolmek.pages.dev/sitemap.xml
